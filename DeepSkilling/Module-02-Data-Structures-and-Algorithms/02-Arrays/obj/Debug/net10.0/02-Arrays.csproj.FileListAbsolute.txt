@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\bin\Debug\net10.0\02-Arrays.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\bin\Debug\net10.0\02-Arrays.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\bin\Debug\net10.0\02-Arrays.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\bin\Debug\net10.0\02-Arrays.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\bin\Debug\net10.0\02-Arrays.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\refint\02-Arrays.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\02-Arrays.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\02-Arrays\obj\Debug\net10.0\ref\02-Arrays.dll

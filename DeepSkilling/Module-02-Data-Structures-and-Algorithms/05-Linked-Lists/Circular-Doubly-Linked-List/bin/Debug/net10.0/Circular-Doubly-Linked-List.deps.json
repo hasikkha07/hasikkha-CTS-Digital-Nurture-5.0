@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Circular-Doubly-Linked-List/1.0.0": {
+        "runtime": {
+          "Circular-Doubly-Linked-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circular-Doubly-Linked-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

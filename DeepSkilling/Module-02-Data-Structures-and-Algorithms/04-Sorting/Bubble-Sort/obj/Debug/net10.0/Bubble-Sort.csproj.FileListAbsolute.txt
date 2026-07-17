@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\bin\Debug\net10.0\Bubble-Sort.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\bin\Debug\net10.0\Bubble-Sort.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\bin\Debug\net10.0\Bubble-Sort.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\bin\Debug\net10.0\Bubble-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\bin\Debug\net10.0\Bubble-Sort.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\refint\Bubble-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\Bubble-Sort.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Bubble-Sort\obj\Debug\net10.0\ref\Bubble-Sort.dll

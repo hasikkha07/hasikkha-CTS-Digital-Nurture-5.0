@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\bin\Debug\net10.0\Insertion-Sort.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\bin\Debug\net10.0\Insertion-Sort.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\bin\Debug\net10.0\Insertion-Sort.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\bin\Debug\net10.0\Insertion-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\bin\Debug\net10.0\Insertion-Sort.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\refint\Insertion-Sort.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\Insertion-Sort.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\04-Sorting\Insertion-Sort\obj\Debug\net10.0\ref\Insertion-Sort.dll

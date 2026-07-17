@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\bin\Debug\net10.0\Doubly-Linked-List.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\bin\Debug\net10.0\Doubly-Linked-List.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\bin\Debug\net10.0\Doubly-Linked-List.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\bin\Debug\net10.0\Doubly-Linked-List.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\bin\Debug\net10.0\Doubly-Linked-List.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\refint\Doubly-Linked-List.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\Doubly-Linked-List.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-02-Data-Structures-and-Algorithms\05-Linked-Lists\Doubly-Linked-List\obj\Debug\net10.0\ref\Doubly-Linked-List.dll

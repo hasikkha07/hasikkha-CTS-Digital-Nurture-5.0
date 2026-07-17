@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\bin\Debug\net10.0\Factory-Method.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\bin\Debug\net10.0\Factory-Method.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\bin\Debug\net10.0\Factory-Method.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\bin\Debug\net10.0\Factory-Method.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\bin\Debug\net10.0\Factory-Method.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\refint\Factory-Method.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\Factory-Method.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Creational-Patterns\Factory-Method\obj\Debug\net10.0\ref\Factory-Method.dll

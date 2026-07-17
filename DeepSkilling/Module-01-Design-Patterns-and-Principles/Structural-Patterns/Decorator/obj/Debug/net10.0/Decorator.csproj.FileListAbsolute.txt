@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\bin\Debug\net10.0\Decorator.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\bin\Debug\net10.0\Decorator.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\bin\Debug\net10.0\Decorator.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\bin\Debug\net10.0\Decorator.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\bin\Debug\net10.0\Decorator.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\refint\Decorator.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\Decorator.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\Structural-Patterns\Decorator\obj\Debug\net10.0\ref\Decorator.dll

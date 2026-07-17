@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\bin\Debug\net10.0\LSP.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\bin\Debug\net10.0\LSP.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\bin\Debug\net10.0\LSP.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\bin\Debug\net10.0\LSP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\bin\Debug\net10.0\LSP.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\refint\LSP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\LSP.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\LSP\obj\Debug\net10.0\ref\LSP.dll

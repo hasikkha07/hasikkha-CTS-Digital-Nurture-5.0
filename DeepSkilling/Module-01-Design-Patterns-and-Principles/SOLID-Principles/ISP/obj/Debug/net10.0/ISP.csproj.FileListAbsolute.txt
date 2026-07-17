@@ -1,0 +1,15 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\bin\Debug\net10.0\ISP.exe
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\bin\Debug\net10.0\ISP.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\bin\Debug\net10.0\ISP.runtimeconfig.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\bin\Debug\net10.0\ISP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\bin\Debug\net10.0\ISP.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\refint\ISP.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ISP.genruntimeconfig.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-01-Design-Patterns-and-Principles\SOLID-Principles\ISP\obj\Debug\net10.0\ref\ISP.dll

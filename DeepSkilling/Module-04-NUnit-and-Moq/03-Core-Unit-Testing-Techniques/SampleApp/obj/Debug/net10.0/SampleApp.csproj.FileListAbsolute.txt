@@ -1,0 +1,12 @@
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.deps.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\bin\Debug\net10.0\SampleApp.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfoInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfo.cs
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.sourcelink.json
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\refint\SampleApp.dll
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\SampleApp.pdb
+C:\Users\jyoth\hasikkha-CTS-Digital-Nurture-5.0\DeepSkilling\Module-04-NUnit-and-Moq\03-Core-Unit-Testing-Techniques\SampleApp\obj\Debug\net10.0\ref\SampleApp.dll

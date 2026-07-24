@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7gwDZWRvYU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jyoth\\hasikkha-CTS-Digital-Nurture-5.0\\DeepSkilling\\Module-06-ASP.NET-Core-Web-API\\01-Introduction-to-web-API\\WebApiIntro\\WebApiIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jyoth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\jyoth\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\jyoth\\hasikkha-CTS-Digital-Nurture-5.0\\DeepSkilling\\Module-06-ASP.NET-Core-Web-API\\01-Introduction-to-web-API\\WebApiIntro\\WebApiIntro.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jyoth\\hasikkha-CTS-Digital-Nurture-5.0\\DeepSkilling\\Module-06-ASP.NET-Core-Web-API\\01-Introduction-to-web-API\\WebApiIntro\\WebApiIntro.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@AdvancedApiDemo_HostAddress = http://localhost:5209
+
+GET {{AdvancedApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
